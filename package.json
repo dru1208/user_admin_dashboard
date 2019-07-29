@@ -1,0 +1,19 @@
+{
+  "name": "user_admin_dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dru1208/user_admin_dashboard.git"
+  },
+  "author": "dru1208",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dru1208/user_admin_dashboard/issues"
+  },
+  "homepage": "https://github.com/dru1208/user_admin_dashboard#readme"
+}
